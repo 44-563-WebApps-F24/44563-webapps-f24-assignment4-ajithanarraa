@@ -45,3 +45,9 @@
 .chorus {
     color: maroon;
 }
+
+h3:hover {
+    text-shadow: 2px 2px 8px skyblue; 
+    border: 3px solid royalblue; 
+    padding: 3px;
+}
