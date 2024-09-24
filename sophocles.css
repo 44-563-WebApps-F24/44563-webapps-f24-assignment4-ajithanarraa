@@ -75,6 +75,7 @@
 h3:hover {
     text-shadow: 2px 2px 5px rgba(255, 0, 255, 0.7); 
     border: 2px solid teal; 
+    filter: blur(1px);
     padding: 5px; 
 }
 
